@@ -6,3 +6,4 @@ a = 15
 b = 25
 sum = a + b
 print("The sum is:", sum)
+#total sum = 40
